@@ -4,10 +4,10 @@ class About extends Component {
   render() {
     return (
       <div>
-        <div id="section1" class="center" class="container-fluid bg-success">
-    <div class="container-fluid center" id="background-animation">
-      <img class="center" id="logo" src="./images/aaron-thomas-logo-2.png" alt="Aaron Thomas Logo"></img>
-      <img class="center" id="logo-sm" src="./images/aaron-thomas-logo-2-sm.png" alt="Aaron Thomas Logo"></img>
+        <div id="section1" class="container-fluid bg-success center">
+    <div class=" center" id="background-animation">
+      <img class="center" id="logo" src="/images/aaron-thomas-logo-2.png" alt="Aaron Thomas Logo"></img>
+      <img class="center" id="logo-sm" src="/images/aaron-thomas-logo-2-sm.png" alt="Aaron Thomas Logo"></img>
     </div>
   </div>
   <div id="pink"></div>
@@ -15,7 +15,7 @@ class About extends Component {
     <h1>Aaron Thomas</h1>
     <h5>Full Stack Developer</h5>
     <p>
-      <img id="profile-picture" src="../src/images/aaron-profile-drk.png" alt="Aaron's Photo"></img>
+      <img id="profile-picture" src="/images/aaron-profile-drk.png" alt="Aaron's Photo"></img>
       <p class="text">
         Since the age of 9, I was drawn to computers and technology in general. As the years passed, I
         became
