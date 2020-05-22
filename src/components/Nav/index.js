@@ -5,42 +5,42 @@ class Nav extends Component {
     return (
       <div>
         <nav id="nav-bar" class="navbar navbar-expand-sm navbar-dark fixed-top">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link" href="#section1" />
+          <ul className="navbar-nav">
+            <li className="nav-item">
+              <a className="nav-link" href="#section1" />
               <img
                 id="mini-logo"
                 // src="../src/images/aaron-thomas-logo-NO-WORDS.png"
                 // alt="Profile Logo"
               ></img>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#section2">
+            <li className="nav-item">
+              <a className="nav-link" href="#section2">
                 About
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#section3">
+            <li className="nav-item">
+              <a className="nav-link" href="#section3">
                 Portfolio
               </a>
             </li>
-            <li class="nav-item dropdown">
+            <li className="nav-item dropdown">
               <a
-                class="nav-link dropdown-toggle"
+                className="nav-link dropdown-toggle"
                 // href=""
                 id="navbardrop"
                 data-toggle="dropdown"
               >
                 Contact
               </a>
-              <div class="dropdown-menu">
-                <a class="dropdown-item" href="#section41">
+              <div className="dropdown-menu">
+                <a className="dropdown-item" href="#section41">
                   Reach Me
                 </a>
-                <a class="dropdown-item" href="#section42">
+                <a className="dropdown-item" href="#section42">
                   Social Media
                 </a>
-                <a class="dropdown-item" href="./resume.html">
+                <a className="dropdown-item" href="./resume.html">
                   Resume
                 </a>
               </div>
