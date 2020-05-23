@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import passwordGenImage from "../../images/password.png"
 
 class Portfolio extends Component {
   render() {
@@ -9,7 +10,7 @@ class Portfolio extends Component {
 
         <div class="row justify-content-center">
           <div class="card picbox col-lg-3 col-sm-4">
-            <a href="https://acthomas83.github.io/hw3_PW_Algorithms/" target="_blank"><img src="./images/password.png"
+            <a href="https://acthomas83.github.io/hw3_PW_Algorithms/" target="_blank"><img src={passwordGenImage}
                 class="card-img-top" alt="Password Image"></img></a>
                 <a href="https://github.com/acthomas83/hw3_PW_Algorithms" target="_blank" class="capbox">Random Password
                   Generator GitHub Repo</a>
