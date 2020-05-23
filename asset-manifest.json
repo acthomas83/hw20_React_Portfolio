@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hw20_React_Portfolio/static/css/main.87b0cc7f.chunk.css",
+    "main.js": "/hw20_React_Portfolio/static/js/main.aad3087e.chunk.js",
+    "main.js.map": "/hw20_React_Portfolio/static/js/main.aad3087e.chunk.js.map",
+    "runtime-main.js": "/hw20_React_Portfolio/static/js/runtime-main.33b07de2.js",
+    "runtime-main.js.map": "/hw20_React_Portfolio/static/js/runtime-main.33b07de2.js.map",
+    "static/js/2.ad0eb749.chunk.js": "/hw20_React_Portfolio/static/js/2.ad0eb749.chunk.js",
+    "static/js/2.ad0eb749.chunk.js.map": "/hw20_React_Portfolio/static/js/2.ad0eb749.chunk.js.map",
+    "index.html": "/hw20_React_Portfolio/index.html",
+    "precache-manifest.b0d70b64fe5c78870bcc11f0d23b6909.js": "/hw20_React_Portfolio/precache-manifest.b0d70b64fe5c78870bcc11f0d23b6909.js",
+    "service-worker.js": "/hw20_React_Portfolio/service-worker.js",
+    "static/css/main.87b0cc7f.chunk.css.map": "/hw20_React_Portfolio/static/css/main.87b0cc7f.chunk.css.map",
+    "static/js/2.ad0eb749.chunk.js.LICENSE.txt": "/hw20_React_Portfolio/static/js/2.ad0eb749.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/hw20_React_Portfolio/static/media/aaron-thomas-logo-NO-WORDS.aa419bca.png",
+    "static/media/password.png": "/hw20_React_Portfolio/static/media/password.40685198.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33b07de2.js",
+    "static/js/2.ad0eb749.chunk.js",
+    "static/css/main.87b0cc7f.chunk.css",
+    "static/js/main.aad3087e.chunk.js"
+  ]
+}
